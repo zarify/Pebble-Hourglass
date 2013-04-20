@@ -1,0 +1,16 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+	   {
+	    "type":"png-trans",
+	    "defName":"IMAGE_HOURGLASS",
+	    "file":"images/trans_hourglass.png"
+	   },
+     {
+       "type":"png",
+       "defName":"IMAGE_LILGLASS",
+       "file":"images/lilglass.png"
+     }
+	  ]
+}
